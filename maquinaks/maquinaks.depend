@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1618622908 source:c:\workspace\ks-machine\maquinaks\main.c
+1618802396 source:c:\workspace\ks-machine\maquinaks\main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
